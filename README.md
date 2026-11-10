@@ -77,6 +77,10 @@ astery157@github ~ $ ./profile-scan --live
 ## 📈 Activity
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Astery157/Astery157/output/snake.svg" alt="snake animation" />
+</div>
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=astery157&background=0A0F0A&ring=22C55E&fire=22C55E&currStreakLabel=4ADE80&sideLabels=4ADE80&currStreakNum=22C55E&sideNums=22C55E&dates=16A34A&stroke=22C55E&border=22C55E" alt="streak" />
 
