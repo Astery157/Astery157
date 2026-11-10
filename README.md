@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:052e16,100:22c55e&height=200&section=header&text=astery157&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Building%20useful%20things%20in%20public&descSize=18&descColor=dcfce7&descAlignY=60" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b06,60:052e16,100:16a34a&height=200&section=header&text=astery157&fontColor=22c55e&fontSize=60&fontAlignY=42&desc=Building%20with%20code%20on%20GitHub.&descSize=18&descColor=4ade80&descAlignY=64&animation=fadeIn&stroke=22c55e&strokeWidth=2" width="100%" alt="banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=480&height=50&lines=Interface+engineer;Product-minded+developer;Building+%7C+Learning+%7C+Shipping" alt="typing" />
 
 <br/>
 
-<a href="#-about"><img src="https://img.shields.io/badge/About-22c55e?style=for-the-badge&labelColor=0a0f0a" /></a>
+<a href="#-about"><img src="https://img.shields.io/badge/VibeCode-22c55e?style=for-the-badge&labelColor=0a0f0a" /></a>
 <a href="#-projects"><img src="https://img.shields.io/badge/Projects-22c55e?style=for-the-badge&labelColor=0a0f0a" /></a>
-<a href="#-toolkit"><img src="https://img.shields.io/badge/Toolkit-22c55e?style=for-the-badge&labelColor=0a0f0a" /></a>
-<a href="#-contact"><img src="https://img.shields.io/badge/Contact-22c55e?style=for-the-badge&labelColor=0a0f0a" /></a>
+<a href="#-toolkit"><img src="https://img.shields.io/badge/Learn-22c55e?style=for-the-badge&labelColor=0a0f0a" /></a>
+<a href="#-contact"><img src="https://img.shields.io/badge/OpenSource-22c55e?style=for-the-badge&labelColor=0a0f0a" /></a>
 
 <br/><br/>
 
@@ -88,4 +88,4 @@ astery157@github ~ $ ./profile-scan --live
   <a href="https://github.com/astery157"><img src="https://img.shields.io/badge/GitHub-astery157-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0f0a" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:052e16&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,100:020b06&height=80&section=footer" width="100%" alt="footer" />
