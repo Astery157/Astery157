@@ -1,6 +1,13 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b06,60:052e16,100:16a34a&height=200&section=header&text=astery157&fontColor=22c55e&fontSize=60&fontAlignY=42&desc=Building%20with%20code%20on%20GitHub.&descSize=18&descColor=4ade80&descAlignY=64&animation=fadeIn&stroke=22c55e&strokeWidth=2" width="100%" alt="banner" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vibe%20Coder&fontSize=40&fontAlignY=35&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+astery157+%F0%9F%91%8B&center=true&width=500&height=45">
+</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=480&height=50&lines=Interface+engineer;Product-minded+developer;Building+%7C+Learning+%7C+Shipping" alt="typing" />
 
